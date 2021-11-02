@@ -9,4 +9,5 @@ I am a front-end developer at a fashion startup. I have experience in web publis
 
 ![](https://github-readme-stats.vercel.app/api?username=miiin&hide=contribs,prs) 
 
-[![](https://images.credly.com/size/110x110/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png)](https://www.credly.com/badges/29a5dd3a-d50a-4c92-8161-bdbb73a95bd8/public_url)
+[![](https://images.credly.com/size/110x110/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png)](https://www.credly.com/badges/29a5dd3a-d50a-4c92-8161-bdbb73a95bd8/public_url) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
