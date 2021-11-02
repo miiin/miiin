@@ -12,4 +12,4 @@ I am a **front-end developer** at a fashion startup. I have experience in web pu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miiin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### contact
-[![](https://img.shields.io/badge/-gmail-grey?logo=gmail)](mailto:"minkim307@gmail.com") [![](https://img.shields.io/badge/-velog-black?logo=github)](http://velog.com/miiin)
+[![](https://img.shields.io/badge/-gmail-grey?logo=gmail)](mailto:"minkim307@gmail.com") [![](https://img.shields.io/badge/-velog-black?logo=github)](https://velog.io/@soop)
