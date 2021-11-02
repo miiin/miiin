@@ -9,7 +9,8 @@ I am a front-end developer at a fashion startup. I have experience in web publis
 
 ![](https://images.credly.com/size/110x110/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png)
 
+![](https://github-readme-stats.vercel.app/api?username=miiin&hide=contribs,prs)
+
 ### contact
 [![](https://img.shields.io/badge/-gmail-blueviolet?logo=gmail)](mailto:﻿"minkim307@gmail.com") [![](https://img.shields.io/badge/-velog-ff69b4?logo=github)](http://velog.com/miiin)
 
-![](https://github-readme-stats.vercel.app/api?username=miiin&hide=contribs,prs)
