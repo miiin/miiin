@@ -10,5 +10,5 @@ I am a front-end developer at a fashion startup. I have experience in web publis
 
 ![](https://github-readme-stats.vercel.app/api?username=miiin&hide=contribs,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miiin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## contact
+### contact
 [![](https://img.shields.io/badge/-gmail-grey?logo=gmail)](mailto:"minkim307@gmail.com") [![](https://img.shields.io/badge/-velog-black?logo=github)](http://velog.com/miiin)
