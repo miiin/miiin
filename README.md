@@ -1,6 +1,4 @@
-## Hi There 👋
-***
-### Hello, I'm Minyoung Kim!
+### Hello, I'm Minyoung Kim!👋
 I am a front-end developer at a fashion startup. I have experience in web publishing, backend and frontend development. I love reading, fashion and alternative & indie rock music:)
 
 ### stack
@@ -14,6 +12,4 @@ I am a front-end developer at a fashion startup. I have experience in web publis
 ### contact
 [![](https://img.shields.io/badge/-gmail-blueviolet?logo=gmail)](mailto:﻿"minkim307@gmail.com") [![](https://img.shields.io/badge/-velog-ff69b4?logo=github)](http://velog.com/miiin)
 
-## Github Stats
-***
-![](https://github-readme-stats.vercel.app/api?username=miiin&hide=contribs,prs) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=miiin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=miiin&hide=contribs,prs)
