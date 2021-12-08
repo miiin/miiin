@@ -4,7 +4,6 @@ I am a **front-end developer** at a fashion startup. I have experience in web pu
 ### stack
 ![javascript](https://img.shields.io/badge/-JavaScript-brightgreen) ![react](https://img.shields.io/badge/-React-green) ![nextjs](https://img.shields.io/badge/-Next.js-yellowgreen) ![grapql](https://img.shields.io/badge/-GraphQL-yellow)  ![apollo](https://img.shields.io/badge/-Apollo-orange) ![tslint](https://img.shields.io/badge/-tslint-red) ![typescript](https://img.shields.io/badge/-Typescript-blue) ![styledcomponent](https://img.shields.io/badge/-styled--%20components-lightgrey)  
 ![java](https://img.shields.io/badge/-java-brightgreen) ![nodejs](https://img.shields.io/badge/-Node.js-orange) ![storybook](https://img.shields.io/badge/-Storybook-red) ![jest](https://img.shields.io/badge/-jest-blue) ![redux](https://img.shields.io/badge/-redux-lightgrey)
-
 ### contact
 [![](https://img.shields.io/badge/-gmail-grey?logo=gmail)](mailto:"minkim307@gmail.com") [![](https://img.shields.io/badge/-velog-black?logo=github)](https://velog.io/@soop)
 
